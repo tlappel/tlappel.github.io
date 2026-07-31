@@ -1,4 +1,5 @@
 ---
-layout: home
+layout: page
+title: About
+permalink: /about/
 ---
-Welcome. Posts land below.
