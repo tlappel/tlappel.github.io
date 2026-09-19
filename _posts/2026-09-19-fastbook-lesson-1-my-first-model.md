@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fastbook Lesson 1: My First Model in an Afternoon"
-date: 2026-09-21
+date: 2026-09-19
 categories: fastbook deep-learning
 ---
 
